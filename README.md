@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Discord Bot (Python)**
 
-- :eyes: Currently looking for entry-level jobs to take my career to greater heights
+- :eyes: Looking for entry-level jobs to take my career to greater heights
 
 - :headphones: Currently listening to Harry's House:house_with_garden:
 
