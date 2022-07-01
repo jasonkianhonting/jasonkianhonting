@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Jason</h1>
 <h3 align="center">An aspiring programmer, currently residing in Brisbane, AU</h3>
 
-- 🔭 I’m currently working on **Discord Bot (Python)**
+- 🔭 I’m currently working on **URL Shortener**
 
 - :eyes: Looking for entry-level jobs to take my career to greater heights
 
