@@ -7,7 +7,7 @@
 
 - :headphones: Currently listening to Harry's House:house_with_garden:
 
-- 📫:link: **https://www.linkedin.com/in/kian-hon-ting-459317232/**
+- 📫:link: **https://www.linkedin.com/in/kian-hon-ting/**
 
 
 
