@@ -5,7 +5,7 @@
 
 - :eyes: Looking for entry-level jobs to take my career to greater heights
 
-- :headphones: Currently listening to Harry's House:house_with_garden:
+- :headphones: Currently listening to Freudian
 
 - 📫:link: **https://www.linkedin.com/in/kian-hon-ting/**
 
